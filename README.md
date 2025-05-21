@@ -5,6 +5,9 @@
 The aim of this project is to segment customers based on Recency (when they last made a purchase), Frequency (how often they purchase), and Monetary Value (how much they spend), and to determine which products are frequently ordered together by the same customers.
 
 
+[Excel dataset}()
+
+
 **Recency, Frequency, Monetary Value (RFM) analysis.**
 
 There is no information on the dataset regarding the customers apart from the purchase address. I used the purchase address for the customers identification.
