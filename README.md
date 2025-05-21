@@ -8,6 +8,9 @@ The aim of this project is to segment customers based on Recency (when they last
 [Excel dataset](https://github.com/Chibuike-Ile/E_Commerce_RFM---Bracket-Analysis-using-SQL/blob/main/E-commerce%20Data%20Analysis%20Project.xlsx)
 
 
+[SQL Queries](https://github.com/Chibuike-Ile/E_Commerce_RFM---Bracket-Analysis-using-SQL/blob/main/RFM%20Analysis%20E_commerce.sql)
+
+
 **Recency, Frequency, Monetary Value (RFM) analysis.**
 
 There is no information on the dataset regarding the customers apart from the purchase address. I used the purchase address for the customers identification.
