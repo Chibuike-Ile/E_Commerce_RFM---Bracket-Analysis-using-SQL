@@ -1,4 +1,4 @@
-# E_Commerce_RFM-and_Bracket-Analysis-using-SQL
+# E_Commerce_RFM_and_Bracket_Analysis_using-SQL
 
 ## AN OVERVIEW OF THE PROJECT.
 
