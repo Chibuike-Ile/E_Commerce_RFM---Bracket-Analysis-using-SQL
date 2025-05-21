@@ -5,7 +5,7 @@
 The aim of this project is to segment customers based on Recency (when they last made a purchase), Frequency (how often they purchase), and Monetary Value (how much they spend), and to determine which products are frequently ordered together by the same customers.
 
 
-[Excel dataset}()
+[Excel dataset](https://github.com/Chibuike-Ile/E_Commerce_RFM---Bracket-Analysis-using-SQL/blob/main/E-commerce%20Data%20Analysis%20Project.xlsx)
 
 
 **Recency, Frequency, Monetary Value (RFM) analysis.**
