@@ -1,1 +1,1 @@
-# E_Commerce_RFM---Bracket-Analysis-using-SQL
+# E_Commerce_RFM-and_Bracket-Analysis-using-SQL
