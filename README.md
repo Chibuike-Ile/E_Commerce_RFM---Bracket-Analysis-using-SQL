@@ -57,19 +57,17 @@ There is no information on the dataset regarding the customers apart from the pu
 
 ### Findings & Recommendations:
 
-The **RFM Group 5:** These are the top 5 starts customers. They are small 6% (8799) of the total customers but delivers approximately £6.4m, 19% in sales. Their average sales per customer 51% (£724.94)  is highest among all group.
+**The RFM Group 5:** These are the top 5 starts customers. They are small 6% (8799) of the total customers but delivers approximately £6.4m, 19% in sales. Their average sales per customer 51% (£724.94) is highest among all group.
 
 **Recommendation:** There is need to retain and encourage these customers. Retention campaigns, early access offers, loyalty rewards and promotions will be of help.
 
-**Group 3 & 4:** Group 4 makes the highest total sales which is approxmately £14.4M, while Group 3 makes approxmately £11M which is the second to the highest. Group 3 & 4 accounts for 44% of average sales per customer and 74% of the total sales. 
+**Group 3 & 4:** Group 4 makes the highest total sales which is approximately £14.4M, while Group 3 makes approximately £11M which is the second to the highest. Group 3 & 4 accounts for 44% of average sales per customer and 74% of the total sales.
 
-**Recommendation:** The company should run targeted campaigns (eg emails, discounts) in order to increase their frequency and possibly push them toward Group 5.
+**Recommendation:** The company should run targeted campaigns (e.g. emails, discounts) in order to increase their frequency and possibly push them toward Group 5.
 
+**Group 1 is at risk segment.** They have very low average sales per customer (£7.13) and they account for only 0.3% of the total sales.
 
-**Group 1** is at risk segment. They have very low average saled per customer (£7.13) and they account for only 0.3% of the total sales.
-
-**Recommendation:** The company should run win-back campaigns, surveys to know reasons for drop off.
-
+**Recommendation:** The Company should run win-back campaigns, surveys to know reasons for drop off.
 
 ![Customer Distribution by RFM grouping](https://github.com/user-attachments/assets/0898302a-3819-4885-9692-4cbdee05e6af)
 
@@ -91,9 +89,9 @@ The **RFM Group 5:** These are the top 5 starts customers. They are small 6% (87
 
 ### Findings & Recommendations:
 
-Smartphones are frequently purchased with it's charing cables.
+Smartphones are frequently purchased with it's charging cables.
 
-- The company should offer pre-package bundles (eg smartphones + it's charging cable) at a slightly discount price.
+- The company should offer pre-package bundles (e.g. smartphones + it's charging cable) at a slightly discount price.
 - They should use product B as an additional purchase recommendation when product A is added to the cart.
 - These insights will help them in stocking physical shops, frequently paired products should be stocked together.
 - Email campaigns could be created that recommend accessories companion products.
