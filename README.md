@@ -76,8 +76,9 @@ There is no information on the dataset regarding the customers apart from the pu
 ![Total sales by rfm gruoping](https://github.com/user-attachments/assets/b7a492b9-8552-46b7-99b7-df73e45b7b68)
 
 
+![Avg sale per customer by rfm gruoping](https://github.com/user-attachments/assets/e27e4773-3276-436b-b838-f1f60c95abef)
 
-![Avg sale per customer by rfm gruoping](https://github.com/user-attachments/assets/1359ced8-e639-4c27-b38b-65f20b7c8b8a
+
 
 
 
